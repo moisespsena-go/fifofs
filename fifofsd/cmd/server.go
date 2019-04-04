@@ -16,8 +16,8 @@ package cmd
 
 import (
 	"github.com/spf13/cobra"
-	"github.com/moisespsena/go-fifofs"
-	"github.com/moisespsena/go-error-wrap"
+	"github.com/moisespsena-go/fifofs"
+	"github.com/moisespsena-go/error-wrap"
 )
 
 // serverCmd represents the server command

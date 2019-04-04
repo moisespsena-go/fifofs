@@ -4,8 +4,8 @@ import (
 	"fmt"
 
 	"io/ioutil"
-	"github.com/moisespsena/go-fifofs"
-	"github.com/moisespsena/go-error-wrap"
+	"github.com/moisespsena-go/fifofs"
+	"github.com/moisespsena-go/error-wrap"
 	"io"
 )
 

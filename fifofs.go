@@ -4,7 +4,7 @@ import (
 	"io"
 	"path/filepath"
 	"os"
-	"github.com/moisespsena/go-error-wrap"
+	"github.com/moisespsena-go/error-wrap"
 	"gopkg.in/yaml.v2"
 	"github.com/moisespsena/go-path-helpers"
 	"sync"

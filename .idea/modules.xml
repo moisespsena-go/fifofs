@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/go-fifofs.iml" filepath="$PROJECT_DIR$/.idea/go-fifofs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea-go/fifofs.iml" filepath="$PROJECT_DIR$/.idea-go/fifofs.iml" />
     </modules>
   </component>
 </project>

@@ -3,7 +3,7 @@ package fifofs
 import (
 	"net"
 	"bufio"
-	"github.com/moisespsena/go-error-wrap"
+	"github.com/moisespsena-go/error-wrap"
 	"io"
 	"strconv"
 )

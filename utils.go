@@ -3,7 +3,7 @@ package fifofs
 import (
 	"path/filepath"
 	"github.com/moisespsena/go-path-helpers"
-	"github.com/moisespsena/go-error-wrap"
+	"github.com/moisespsena-go/error-wrap"
 	"os"
 	"github.com/satori/go.uuid"
 )

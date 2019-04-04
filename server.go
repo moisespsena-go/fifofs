@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/moisespsena/go-error-wrap"
+	"github.com/moisespsena-go/error-wrap"
 	"strconv"
 	"bufio"
 )

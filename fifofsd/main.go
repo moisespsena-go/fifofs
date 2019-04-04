@@ -14,7 +14,7 @@
 
 package main
 
-import "github.com/moisespsena/go-fifofs/fifofsd/cmd"
+import "github.com/moisespsena-go/fifofs/fifofsd/cmd"
 
 func main() {
 	cmd.Execute()

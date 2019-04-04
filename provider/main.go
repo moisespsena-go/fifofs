@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/moisespsena/go-fifofs"
-	"github.com/moisespsena/go-error-wrap"
+	"github.com/moisespsena-go/fifofs"
+	"github.com/moisespsena-go/error-wrap"
 )
 
 func main() {
